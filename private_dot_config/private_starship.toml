@@ -1,0 +1,11 @@
+add_newline = false
+format = "$all"
+
+[username]
+disabled = true
+
+[hostname]
+disabled = true
+
+[git_status]
+disabled = true  # faster on big repos
